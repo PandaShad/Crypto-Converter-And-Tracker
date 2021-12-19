@@ -15,3 +15,13 @@ And the Second one is a Tracker of 100 CryptoCurrencies using [Coin gecko Api](h
 
 - First Time using [React](https://fr.reactjs.org/)
 - I tried [Bulma](https://bulma.io/) for the css of the Dashboard
+
+## Demo
+
+# Converter :
+
+![Converter](public/ConverterGig.gif?raw=true "Converter Gif")
+
+# Tracker :
+
+![Tracker](public/Tracker.gif?raw=true "Tracker Gif")
